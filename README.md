@@ -3,6 +3,11 @@ MobileAppScanner
 
 Descriptions: Scans user's folder for apps.
 
+1. Build using Eclipse IDE (see screencast below).  Before building, create a project from an existing source and
+point the folder to where the root of this project.
+
+2. Run go.sh in build folder to generate key when you are done building the applet to code sign the applet.
+
 [AppScanner Screencast](http://www.youtube.com/watch?v=Hos32MiPfSY)
 
 \<applet code="tk.eugenehp.IPAfinder.class" archive="ipa.jar" height="70" width="600" mayscript="true"\>
