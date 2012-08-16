@@ -1,6 +1,8 @@
 MobileAppScanner
 ================
 
+Descriptions: Scans user's folder for apps.
+
 [AppScanner Screencast](http://www.youtube.com/watch?v=Hos32MiPfSY)
 
 \<applet code="tk.eugenehp.IPAfinder.class" archive="ipa.jar" height="70" width="600" mayscript="true"\>
