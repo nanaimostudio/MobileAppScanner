@@ -3,15 +3,15 @@ MobileAppScanner
 
 [AppScanner Screencast](http://www.youtube.com/watch?v=Hos32MiPfSY)
 
-<applet code="tk.eugenehp.IPAfinder.class" archive="ipa.jar" height="70" width="600" mayscript="true">
+\<applet code="tk.eugenehp.IPAfinder.class" archive="ipa.jar" height="70" width="600" mayscript="true"\>
 
-<param name="environment" value="production"><param name="host" value="http://localhost" />
+\<param name="environment" value="production"><param name="host" value="http://localhost" /\>
 
-<param name="user" value="username" /><param name="callback" value="window.location.href='/done';" />
+\<param name="user" value="username" /\>\<param name="callback" value="window.location.href='/done';" /\>
 
-<param name="hash" value="123456" />
+\<param name="hash" value="123456" /\>
 
-</applet\>
+\</applet\>
 
 
 callback is the webpage where you want the applet to redirect the user and there you can place some kind of session id or user id
